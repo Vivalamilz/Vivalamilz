@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vivalamilz
-- 👀 I’m interested in ...beating sweepers
-- 🌱 I’m currently learning ...code
-- 💞️ I’m looking to collaborate on ...getting my crypto back
-- 📫 How to reach me ...bradcmills@hotmail.com
+- 👀 I’m interested in the world of finance and finding trends with price charts
+- 🌱 I’m currently looking for a career in the blockchain industry
+- 💞️ I’m looking to collaborate on any coding tutorials...eager to learn more
+- 📫 How to reach me ...vivalamilz@protonmail.com
 
 <!---
 Vivalamilz/Vivalamilz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
